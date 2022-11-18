@@ -1,0 +1,13 @@
+export { default as Home } from "./Home";
+export { default as Login } from "./Login";
+export { default as CriaUsuario } from "./CriaUsuario";
+export { default as NotFound } from "./NotFound";
+export { default as ListagemRelatorios } from "./ListagemRelatorios";
+export { default as MeusPedidos } from "./MeusPedidos";
+export { default as MinhasReservas } from "./MinhasReservas";
+export { default as OrdensEnvio } from "./OrdensEnvio";
+export { default as Produtos } from "./Produtos";
+export { default as Carrinho } from "./Carrinho";
+export { default as Restaurantes } from "./Restaurantes";
+export { default as ReservaCriar } from "./ReservaCriar";
+export { default as Reservas } from "./Reservas";
